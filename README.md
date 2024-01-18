@@ -13,7 +13,7 @@
 	<tr>
 	<td width="1200px">
 	<h3>Programming languages and skills</h3>
-	<img align="right" src="https://skillicons.dev/icons?i=cs,html,css,js,git,sass," draggable="false"></td>
+	<img align="right" src="https://skillicons.dev/icons?i=cs,html,css,js,git,sass,figma," draggable="false"></td>
 		<!--https://skillicons.dev/icons?i=bootstrap,nodejs,react,electron-->
 	</tr>
 	<table> 
@@ -33,7 +33,7 @@
 </table>
 
 
-<table align="center">
+<!--<table align="center">
 	<tr>
 		<td width="1200px">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminbeyrami88&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" draggable="false">
@@ -42,4 +42,4 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbeyrami88&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
 		</td>
 	</tr>
-</table
+</table> -->
