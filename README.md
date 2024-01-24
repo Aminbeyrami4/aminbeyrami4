@@ -13,7 +13,7 @@
 	<tr>
 	<td width="1200px">
 	<h3>Programming languages and skills</h3>
-	<img align="right" src="https://skillicons.dev/icons?i=cs,html,css,js,git,sass,less,figma," draggable="false"></td>
+	<img align="right" src="https://skillicons.dev/icons?i=cs,html,css,js,git,sass,figma," draggable="false"></td>
 		<!--https://skillicons.dev/icons?i=bootstrap,nodejs,react,electron-->
 	</tr>
 	<table> 
